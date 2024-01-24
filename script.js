@@ -272,7 +272,7 @@ audioSources.forEach((source) => {
 });
 
 // Create video elements
-const videoSources = ['media/video1.mp4'];
+const videoSources = ['media/video1.mp4', 'media/video2.mp4'];
 const videoRow = document.createElement('div');
 videoRow.classList.add('media-row');
 videoSources.forEach((source) => {

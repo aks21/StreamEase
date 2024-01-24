@@ -6,8 +6,9 @@ const URLS_TO_CACHE = [
   '/index.html',
   'styles.css',
   'script.js',
-  'media/audio1.mp4'
-  'media/video1.mp4'
+  'media/audio1.mp4',
+  'media/video1.mp4',
+  'media/video2.mp4'
   // Add other assets and pages you want to cache
 ];
 
